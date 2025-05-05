@@ -5,7 +5,7 @@
 - 🌱 Actualmente estoy mejorando mis conocimientos...
   - Javascript
 - 🔭 Y aprendiendo...
-  - React
+  - Java
 -  Fuera de la tecnología, 💜 me encanta cocinar, 🎮 jugar a videojuegos, 🎵 escuchar música y 📖 leer libros.
 - 📫 Contacta conmigo: <a href="maurarayo3@gmail.com">maurarayo3@gmail.com</a>
 
