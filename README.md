@@ -3,8 +3,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 - 🌱 Actualmente estoy mejorando mis conocimientos...
-  - Javascript
-- 🔭 Y aprendiendo...
   - Java
 -  Fuera de la tecnología, 💜 me encanta cocinar, 🎮 jugar a videojuegos, 🎵 escuchar música y 📖 leer libros.
 - 📫 Contacta conmigo: <a href="maurarayo3@gmail.com">maurarayo3@gmail.com</a>
