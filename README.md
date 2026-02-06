@@ -39,13 +39,8 @@
 </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estado de Github </b>
-<table align="center">
+<table align="left">
 <tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MauraRayo&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥  git.io/streak-stats" alt="Maurania Rayo" src="https://github-readme-streak-stats.herokuapp.com/?user=MauraRayo&theme=dark&hide_border=false" /> 
-</td>
   <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MauraRayo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
    </td>
