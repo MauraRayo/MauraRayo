@@ -38,21 +38,32 @@
 </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estado de Github </b>
-<table align="left">
+
+<table align="center">
 <tr border="none">
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MauraRayo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <td width="50%" >
+    
+  ![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MauraRayo&layout=compact&border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff)
    </td>
+
+  <td  width="50%" >    
+    
+   ![Maurania's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=MauraRayo&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+   </td>
+    
 </tr>
 </table>
 
-
 <p align="center">	
-<a target="_blank" href="https://www.linkedin.com/in/mauraniarayo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:maurarayo3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://x.com/mau_rar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+    <a target="_blank" href="https://www.linkedin.com/in/mauraniarayo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="MauraniaRayo"></img></a>
+    <a target="_blank" href="mailto:maurarayo3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="MauraRayo"></img></a>
+    <a target="_blank" href="https://maurarayo.github.io/Portfolio/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MauraRayoPortfolio"></img></a>
 <br>
 </p>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 última edición: 17/03/2025
